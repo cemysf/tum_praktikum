@@ -3,3 +3,4 @@
 
 ### Notes
 - Last versions of code: [training](https://github.com/BRML/2018-mlic-cem/blob/master/exercises/train-fullNet_kdd99.ipynb) and [testing](https://github.com/BRML/2018-mlic-cem/blob/master/exercises/test-fullNet_kdd99.ipynb) (other notebooks in exercises are irrelevant now, I will do a refactor soon)
+- For stage 3: [variatonal autoencoder try for kdd99](https://github.com/BRML/2018-mlic-cem/blob/master/stage3/vae-kdd99.ipynb)
